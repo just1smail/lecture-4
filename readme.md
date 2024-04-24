@@ -52,4 +52,22 @@
 # Number Методы в JS 
 ![alt text](image-4.png) 
 # Math.floor() <br>
-# ![alt text](image-20.png) <br> Math.round() <br> ![alt text](image-21.png) <br> Math.ceil() <br> ![alt text](image-22.png) <br> Math.max() <br> ![alt text](image-23.png) <br> Math.min() <br> ![alt text](image-24.png) <br> Math.pow() <br> ![alt text](image-25.png) <br> Math.sqrt() <br> ![alt text](image-26.png) <br> Math.abs() <br> ![alt text](image-27.png) <br> Math.random() <br> ![alt text](image-28.png) <br> isNaN() <br> ![alt text](image-29.png)
+# Этот метод удаляет остаток нашей цифры ![alt text](image-20.png) 
+# Math.round() <br>
+# Если остаток нашей цифры больше пяти то этот метод увеличевает нашу цыифру до следующего ![alt text](image-21.png) 
+# Math.ceil() <br>
+# Если у нашей цифры есть отстаток то этот метод просто увеличивает до следующего ![alt text](image-22.png) 
+# Math.max() <br>
+# Этот метод находит самую большую цифры![alt text](image-23.png) 
+# Math.min() <br>
+# Этот метод находит самую маленькую цифру ![alt text](image-24.png) 
+# Math.pow() <br>
+# Этот метод увеличевает до той стерени которую мы дадим нашей цифре ![alt text](image-25.png) 
+# Math.sqrt() <br>
+# Этот метод находит корень цифры ![alt text](image-26.png) 
+# Math.abs() <br>
+# Если наша цифра отрицательная то этот метод делает его положительным ![alt text](image-27.png) 
+# Math.random() <br>
+# Этот метот даёт нам случайны номер ![alt text](image-28.png) 
+# isNaN() <br>
+# Если мы дадим этому методу цифру то он нам выдаст False , если мы дадим что то кроме цифры тогда он нам выдаст True ![alt text](image-29.png)
